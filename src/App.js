@@ -1,9 +1,11 @@
-import "./styles.css";
+import Banner from "./componentes/Banner";
+import CampoTexto from "./componentes/CampoTexto";
 
 export default function App() {
   return (
     <div className="App">
-      <h1>Olá Mundo</h1>
+      <Banner />
+      <CampoTexto label="Nome" placeholder />
     </div>
   );
 }
