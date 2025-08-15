@@ -5,7 +5,7 @@ export default function App() {
   return (
     <div className="App">
       <Banner />
-      <CampoTexto label="Nome" placeholder />
+      <CampoTexto label="Nome" placeholder="Insira seu nome" />
     </div>
   );
 }
