@@ -1,7 +1,5 @@
 # органо (Organo)
 
-![Banner do Projeto](https://cursos.alura.com.br/course/react-desenvolvendo-javascript)
-
 ## 📖 Sobre o Projeto
 
 O **Organo** é uma aplicação web desenvolvida durante o curso de React da [Alura](https://www.alura.com.br/). O objetivo é criar uma plataforma para organizar equipes e seus membros, permitindo a criação de "cards" de colaboradores e sua distribuição em times.
